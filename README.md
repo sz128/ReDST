@@ -6,3 +6,8 @@ ReDST is the two-stage approach. First it generate the turn belief using a bert-
 
 1. Go to the folder turn_belief_gen, run the python script by the order of its initial number. 
 2. Go to the folder ReDST, first you should check the configure file config.yaml to change the hyper-parameters, then run the script by the order of its initial number.
+
+### Acknowledgement
+This project is supported by the National Research Foundation, Prime Minister's Office, Singapore under its IRC@Singapore Funding Initiative.
+
+<img src="https://github.com/mysbupt/FashionKE/edit/master/next.png" width = "297" height = "100" alt="next" align=center />
